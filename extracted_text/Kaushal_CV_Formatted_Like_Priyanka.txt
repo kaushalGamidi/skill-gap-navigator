@@ -1,0 +1,52 @@
+KAUSHAL SURESH GAMIDI 
+38 Front Street, Pity Me, Durham, County Durham, DH1 5DW 
+kaushalgamidi6@gmail.com | +44 07587 588 798 
+LinkedIn: linkedin.com/in/kaushal-suresh-2122932ab  
+GitHub: github.com/kaushalGamidi 
+ 
+PERSONAL STATEMENT 
+Second-year Computer Science student at Teesside University with hands-on 
+experience in collaborative software development, databases, and networking. I have 
+contributed to team-based university projects, developing full-stack applications using 
+.NET, SQL, and C#. Adept at learning new technologies quickly, I’m passionate about 
+solving real-world problems through innovative and efficient software solutions. 
+EXPERIENCE 
+Collaborative University Projects | Sep 2023 – Present 
+Teesside University, UK 
+ 
+• Contributed to team-based development of a text-based MUD game with C#, 
+MongoDB, and SQL. 
+ 
+• Practiced networking fundamentals using Cisco tools and engaged in risk 
+assessments and documentation. 
+ 
+• Applied agile teamwork to overcome development and debugging challenges. 
+Digital Champion Volunteer | Feb 2024 – Present 
+Beyond Housing, UK 
+ 
+• Provided digital support to vulnerable individuals and improved digital literacy. 
+ 
+• Helped users become comfortable with accessing online services and resolving 
+basic tech issues. 
+EDUCATION 
+BEng (Hons) Computer Science | Sep 2022 – Present 
+Teesside University, Middlesbrough, UK 
+ 
+• Learning advanced topics in programming, software engineering, and databases. 
+ 
+• Completed modules in Data Structures, Web Development, Software Architecture, 
+and Cybersecurity. 
+TECHNICAL SKILLS 
+Programming: C#, Java, Python, SQL 
+Web: HTML, CSS, JavaScript 
+Database: SQL Server, MongoDB 
+Tools: Visual Studio, Git, Cisco Packet Tracer, Postman 
+Concepts: Agile, Networking Basics, OOP, Risk Assessment 
+PROJECTS 
+Text-Based MUD Game 
+ 
+• Built a multi-user dungeon game using C# and .NET with database support via 
+SQL and MongoDB. 
+ 
+• Collaborated using GitHub and Visual Studio Code in an agile development 
+environment. 
